@@ -8,6 +8,7 @@
 > 相关文章：
 >  - [Vue源码的最后一站](https://zhuanlan.zhihu.com/p/37853734)
 >  - [Vue2.1.7源码学习](https://juejin.cn/post/6844903477831811080)
+>  - [Vue3 渲染器](https://hcysunyang.github.io/vue-design/zh/)
 
 ---
 
