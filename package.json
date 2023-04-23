@@ -1,16 +1,15 @@
 {
-  "name": "vue-design",
+  "name": "vue2-design",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/HcySunYang/vue-design.git",
+  "repository": "https://github.com/mewcoder/vue2-design",
   "author": "HcySunYang <HcySunYang@outlook.com>",
   "scripts": {
     "dev": "vuepress dev ./docs",
-    "build": "vuepress build ./docs",
-    "deploy": "sh build/deploy.sh"
+    "build": "vuepress build ./docs"
   },
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^0.8.4"
+    "vuepress": "^1.9.2"
   }
 }

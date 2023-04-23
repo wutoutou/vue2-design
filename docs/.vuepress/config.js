@@ -1,10 +1,8 @@
 module.exports = {
-  base: '/vue-design/',
+  base: '/vue2-design/',
   title: 'Vue技术内幕',
-  ga: 'UA-120533817-1',
   description: '逐行级别的 Vue 源码分析',
   head: [
-    ['script', { async: '', src: 'http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js' }],
     ['link', { rel: 'icon', href: '/logo.png' }]
   ],
   markdown: {
@@ -13,7 +11,7 @@ module.exports = {
     }
   },
   themeConfig: {
-    repo: 'HcySunYang/vue-design',
+    repo: 'mewcoder/vue2-design',
     docsDir: 'docs',
     editLinks: true,
     editLinkText: '错别字纠正',
