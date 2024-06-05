@@ -1,12 +1,3 @@
-<!--
- * @Author: wudan17
- * @Date: 2024-06-05 10:40:10
- * @LastEditTime: 2024-06-05 15:38:21
- * @LastEditors: wudan17
- * @Description: 
- * @FilePath: \vue2-design\README.md
- * 可以输入预定的版权声明、个性签名、空行等
--->
 # 声明
 - 本仓库 fork 自 [霍春阳](https://github.com/HcySunYang) 写的 Vue2 的源码解析系列文章《Vue技术内幕-逐行级别的 Vue 源码分析》,
 - 大佬已经不维护原来的仓库和网址了，特此 fork 方便学习；
@@ -23,7 +14,7 @@
 
 # 维护说明888
 
-**这套文章不再维护**
+**这套文章不再维护444**
 
 相信大家会有些许疑问，诸如：为什么不维护了？为什么不从一而终？
 
