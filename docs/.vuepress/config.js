@@ -11,7 +11,7 @@ module.exports = {
     }
   },
   themeConfig: {
-    repo: 'mewcoder/vue2-design',
+    repo: 'wutoutou/vue2-design',
     docsDir: 'docs',
     editLinks: true,
     editLinkText: '错别字纠正',
